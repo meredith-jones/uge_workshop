@@ -1,0 +1,23 @@
+Notes about git
+
+untracked > (stage)staged > (git commit)commit
+5 parts of a commit:
+1. Author
+2. timestamp
+3. message or comment
+4. unique ID
+5. changes made:  name of file, lines inserted into git
+
+ls -a is list hidden notes
+
+GIT
+version control system
+history of everything you do to your files
+graph of the "states" in which your file has existed.
+
+"head" is a label for the most recent commit to the branch
+"hash" is unique id that every commit has
+
+"master" branch is one authoritative branch that you will eventually deploy/publish or whatever
+
+GIT NOTES new sticky note.
