@@ -1,0 +1,166 @@
+    1  ping 125.198.194.121
+    2  ping helloidea-vpn.opengw.net
+    3  ping www.microsoft.com
+    4  ping www.google.com.hk
+    5  ping www.reddit.com
+    6  ping 111.168.252.242
+    7  ping 111.168.252.242
+    8  ifconfig
+    9  ifconfig
+   10  ifconfig
+   11  ifconfig
+   12  ping 192.168.1.255
+   13  ping 192.168.1.122
+   14  ls
+   15  ls
+   16  cd Documents/
+   17  ls
+   18  vi west\ coast.txt 
+   19  python
+   20  $pwd
+   21  $cd ~
+   22  $mkdir temp
+   23  ruby
+   24  irb
+   25  uname
+   26  clear
+   27  uname
+   28  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+   29  brew install fish
+   30  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+   31  subl
+   32  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+   33  subl
+   34  echo $EDITOR
+   35  subl .bashrc
+   36  echo $EDITOR
+   37  echo $EDITOR
+   38  ps $$
+   39  git --version
+   40  brew
+   41  brew install git
+   42  git --version
+   43  which git
+   44  sudo git
+   45  sudo git --version
+   46  git --version
+   47  git
+   48  ls -l
+   49  ls -lt
+   50  ls -rt
+   51  ls -r
+   52  ls -lrt
+   53  man ls
+   54  ls -@
+   55  ls -th
+   56  ls -tz
+   57  ls -mk
+   58  ls -tZ
+   59  cd ~
+   60  cd
+   61  pwd
+   62  cd /Users/Meredith
+   63  cd
+   64  cd ..
+   65  cd documents
+   66  cd .
+   67  ls ~
+   68  cd ...
+   69  mcmcmmcmcc
+   70  brew install git
+   71  brew install
+   72  brew install gcc
+   73  which git
+   74  which git
+   75  history
+   76  history | tail -r
+   77  history | tail -r
+   78  history | less
+   79  cd ~
+   80  history > moving_around.txt
+    1  ping 125.198.194.121
+    2  ping helloidea-vpn.opengw.net
+    3  ping www.microsoft.com
+    4  ping www.google.com.hk
+    5  ping www.reddit.com
+    6  ping 111.168.252.242
+    7  ping 111.168.252.242
+    8  ifconfig
+    9  ifconfig
+   10  ifconfig
+   11  ifconfig
+   12  ping 192.168.1.255
+   13  ping 192.168.1.122
+   14  ls
+   15  ls
+   16  cd Documents/
+   17  ls
+   18  vi west\ coast.txt 
+   19  python
+   20  $pwd
+   21  $cd ~
+   22  $mkdir temp
+   23  ruby
+   24  irb
+   25  uname
+   26  clear
+   27  uname
+   28  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+   29  brew install fish
+   30  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+   31  subl
+   32  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+   33  subl
+   34  echo $EDITOR
+   35  subl .bashrc
+   36  echo $EDITOR
+   37  echo $EDITOR
+   38  ps $$
+   39  git --version
+   40  brew
+   41  brew install git
+   42  git --version
+   43  which git
+   44  sudo git
+   45  sudo git --version
+   46  git --version
+   47  git
+   48  ls -l
+   49  ls -lt
+   50  ls -rt
+   51  ls -r
+   52  ls -lrt
+   53  man ls
+   54  ls -@
+   55  ls -th
+   56  ls -tz
+   57  ls -mk
+   58  ls -tZ
+   59  cd ~
+   60  cd
+   61  pwd
+   62  cd /Users/Meredith
+   63  cd
+   64  cd ..
+   65  cd documents
+   66  cd .
+   67  ls ~
+   68  cd ...
+   69  mcmcmmcmcc
+   70  brew install git
+   71  brew install
+   72  brew install gcc
+   73  which git
+   74  which git
+   75  history
+   76  history | tail -r
+   77  history | tail -r
+   78  history | less
+   79  cd ~
+   80  history > moving_around.txt
+   81  ls ~
+   82  ls -t
+   83  ls -t | less
+   84  ls -rt
+   85  ls -rtl
+   86  history >> moving_around.txt
