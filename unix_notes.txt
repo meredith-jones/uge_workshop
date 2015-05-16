@@ -15,7 +15,7 @@
    15  ls
    16  cd Documents/
    17  ls
-   18  vi west\ coast.txt 
+   18  vi west\ coast.txt
    19  python
    20  $pwd
    21  $cd ~
@@ -95,7 +95,7 @@
    15  ls
    16  cd Documents/
    17  ls
-   18  vi west\ coast.txt 
+   18  vi west\ coast.txt
    19  python
    20  $pwd
    21  $cd ~
@@ -159,6 +159,7 @@
    79  cd ~
    80  history > moving_around.txt
    81  ls ~
+   #changing something here
    82  ls -t
    83  ls -t | less
    84  ls -rt
